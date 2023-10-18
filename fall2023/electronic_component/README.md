@@ -4,7 +4,7 @@ Occured on September 27, 2023
 
 ### About
 Participants learned to use a variety of different electronic components that are commonly seen in circuits used in class, personal projects, and professional settings.
-During the workshop, attedess split into stations and learned how to create a circuit and code an Arduino to use different components at each station.
+During the workshop, attendees split into stations and learned how to create a circuit and code an Arduino to use different components at each station.
 This folder includes all of the circuits and code used in each station.
 
 #### Components taught:
