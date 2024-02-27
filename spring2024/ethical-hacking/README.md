@@ -7,6 +7,9 @@ Participants learned the basics of ethical/white-hat hacking.
 Ethical hacking is a way to use hacking strategies and software in order to protect an organizations data and improve their security against malicious attacks.
 The workshop went over the basics of ethical white hat hacking versus illegal black hat hacking, as well as learning how to use a few different attack methods commonly used by both, such as password cracking and DOS (Denial of Service) attacks!
 
+### Disclaimer!
+Penn State IEEE does not condone the use of these tools for malicious intent. These practices and tools should only be used with permission from the owner of the device.
+
 ## Workshop Materials
 ### Password Cracker
 [Windows Download](https://www.openwall.com/john/k/john-1.9.0-jumbo-1-win64.zip)
