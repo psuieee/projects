@@ -16,9 +16,8 @@ The device uses REST API calls to communicate with one's spotify account to send
 
 #### Arduino code setup
 1. Make sure that you have arduino IDE installed.
-2. Download the code package for the Spotify Buddy from [https://gitlab.com/makeitforless/spotify_controller](https://gitlab.com/makeitforless/spotify_controller).
-3. Make a folder named spotify_buddy and extract the code zip into that folder.
-4. Open the spotify_buddy.ino file in arduino IDE.
+2. Download the code package from the repository.
+4. Open the spotify_buddy.ino file from the spotify_buddy folder in arduino IDE.
 
 #### Display
 1. In arduino IDE add TFT_eSPI, TJpg_Decoder, and ArduinoJson libraries.
