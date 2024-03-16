@@ -11,6 +11,8 @@ The device uses REST API calls to communicate with one's spotify account to send
 	1. Install Legacy version 1.8.19
 2. [Visual Studio Code](https://code.visualstudio.com/download)
 3. [Spotify Account](https://open.spotify.com/)
+4. Windows only: [ESP8266 Driver](https://www.wemos.cc/en/latest/ch340_driver.html)
+	1. Download the zip folder, then install the driver inside of it
 
 #### Soldering
 1. Buttons
