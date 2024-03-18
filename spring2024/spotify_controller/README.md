@@ -14,12 +14,21 @@ The device uses REST API calls to communicate with one's spotify account to send
 4. Windows only: [ESP8266 Driver](https://www.wemos.cc/en/latest/ch340_driver.html)
 	1. Download the zip folder, then install the driver inside of it
 
+#### Components
+- 1x PCB
+- 4x Push buttons (2 pin)
+- 1x Potentiometer
+- 2x Short male header pin sections (for Arduino)
+- 2x Header pin spacers
+- 1x 1.8 inch TFT Display
+- 1x Socket header pin section (for display)
+
 #### Soldering
 1. Buttons
 2. ESP8266 with spacers between bottom of header pin plastic and the top of PCB
 	- USB goes face down on the same side as the IEEE logo
 3. Display header
-    - Bend pins connected to display ata  45 degree angle to improve viewing experience before inserting
+    - Bend pins connected to display at a 45 degree angle to improve viewing experience before inserting
 4. Potentiometer
 
 #### Arduino code setup
@@ -44,7 +53,7 @@ The device uses REST API calls to communicate with one's spotify account to send
 #### Spotify Developer Account
 1. Go to [https://developer.spotify.com/documentation/web-api](https://developer.spotify.com/documentation/web-api) and follow the instructions there to create an app.
 	1. Log into the [dashboard](https://developer.spotify.com/dashboard) using your Spotify account.
-	2. [Create an app](https://developer.spotify.com/documentation/web-api/concepts/apps)Once you have created your app, you will have access to the app credentials. These will be required for API [authorization](https://developer.spotify.com/documentation/web-api/concepts/authorization) to obtain an [access token](https://developer.spotify.com/documentation/web-api/concepts/access-token).
+	2. [Create an app](https://developer.spotify.com/documentation/web-api/concepts/apps). Once you have created your app, you will have access to the app credentials. These will be required for API [authorization](https://developer.spotify.com/documentation/web-api/concepts/authorization) to obtain an [access token](https://developer.spotify.com/documentation/web-api/concepts/access-token).
 		1. Name: IEEE Spotify Controller
 		2. Description: IEEE Spotify Controller
 		3. Website: blank
